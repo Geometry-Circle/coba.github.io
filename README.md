@@ -1,6 +1,6 @@
-Nama : Tri Suryo Wahyu aji
-Nim : 1800018304
-Kelas : F
+#Nama : Tri Suryo Wahyu aji
+#Nim : 1800018304
+#Kelas : F
 
 Berikut ini adalah implementasi Front-End dari rancangan Wireframe yang telah saya buat.
 
