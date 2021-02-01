@@ -1,3 +1,11 @@
+Berikut ini adalah implementasi Front-End dari rancangan Wireframe yang telah saya buat.
+
+Link Wireframe:
+https://drive.google.com/drive/folders/1hN4q32-f6hBQCgyHQR70hfpolfcweNoN?usp=sharing
+
+Github pages: 
+https://geometry-circle.github.io/
+
 Front-End yang dibangun sudah sesuai dengan kriteria pada soal UAS.
 
 Kriteria UAS yaitu : 
