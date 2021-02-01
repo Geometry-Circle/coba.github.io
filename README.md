@@ -23,3 +23,6 @@ Kriteria Front-End saya yaitu :
 2. Data yang saya gunakan pada Front-End adalah data dummy/fake.
 3. Pada Front-End saya terdapat beberapa tombol dan tombol tersebut mengarah ke halaman atau data dummy.
 4. Saya menggunakan Bootstrap, css, jquery, javascript untuk membuat Front-End.
+
+# Halaman Utama
+<img src="Screenshot_2021-02-01 Halaman Utama.png">
