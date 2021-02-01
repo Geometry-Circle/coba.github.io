@@ -24,5 +24,14 @@ Kriteria Front-End saya yaitu :
 3. Pada Front-End saya terdapat beberapa tombol dan tombol tersebut mengarah ke halaman atau data dummy.
 4. Saya menggunakan Bootstrap, css, jquery, javascript untuk membuat Front-End.
 
+
 # Halaman Utama
 <img src="Screenshot_2021-02-01 Halaman Utama.png">
+
+
+# Halaman class Machine Learning
+<img src="Screenshot_2021-02-01 Join Class.png">
+
+
+# Halaman Join Class
+<img src="Screenshot_2021-02-01 Machine Learning.png">
